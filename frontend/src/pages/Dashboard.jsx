@@ -1,0 +1,1 @@
+import React from 'react';export default function Dashboard(){ return (<div><h1>Dashboard</h1><p>Bem-vindo ao PGR System — usuário master configurado.</p></div>); }
